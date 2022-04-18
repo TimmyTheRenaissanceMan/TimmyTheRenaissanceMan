@@ -12,10 +12,7 @@
 
 ## What I do:
 ### Freelancing
-I work primarily on short and medium term projects that take anywhere from 30 minutes to 2-3 months. 
-I develop e-commerce platforms, SaaS, PaaS, web games, automation scripts and so on. 
-I like hight degree of novelty, so if you have something unconventional, I am here for you. 
-At the end of the page, you can find languages and tools that I use. 
+I work primarily on short and medium term projects that take anywhere from 30 minutes to 2-3 months. I develop e-commerce platforms, SaaS, PaaS, web games, automation scripts and so on. I like high degree of novelty and so I always pick different/contrasting projects. At the end of the page, you can find languages and tools that I use. 
 
 ### Devancer B.V.
 Stage: Currently restructing for a scale up. 
