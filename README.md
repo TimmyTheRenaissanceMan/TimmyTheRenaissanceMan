@@ -3,9 +3,31 @@
 
 
 ## 
-- I'm currently learning Angular... and exploring Linux Kali 🤫
-- I'm free to give a few hours a week to volunteer (if your project is cool)
-- 
+- 📚 I'm currently learning Angular... and exploring Linux Kali 🤫
+- 🙋‍♂️ I'm free to give a few hours a week to volunteer (if your project is cool)
+- 🌎 
+
+
+
+## What I do:
+
+### Devancer B.V.
+Stage: Currently restructing for a scale up. 
+
+The purpose of Devancer is to centralize E-learning by hosting: user created study guides, library (links and references to E-learning content), and a tutor job board. 
+Also, the platform provides learning recommendations based on the user's reviews, which will make e-learning process even more efficient. 
+
+Tools: MERN, TypeScript, JavaScript.
+
+### Neurolight
+Stage: Prototyping
+
+The purpose of Neurolight is to provide indoor light with accordance to the most recent findings in neurobiology and ophtalmologie. We need light, but it is not a common knowledge that our patterns of light viewing behavior can significantly affect our mental and physical health. Neurolight's goal is to design and program lights that would provide certain types of light, of certain wavelengths, from certain angles to promote well-being.
+
+Neurolight aims at helping individuals to stick to their circadian rhythms, to promote the release of cortisol in the morning, to promote and protect the release of melatonin in the evening and more. 
+
+Tools: Tons of lights and constructing materials, Python, Raspberry Pi.
+
 
 ### Connect with me:
 
