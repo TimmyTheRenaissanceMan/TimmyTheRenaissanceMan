@@ -26,7 +26,7 @@ Tools: MERN, TypeScript, JavaScript.
 ### Neurolight B.V. (tb launched)
 <img src="https://c.tenor.com/joq8ykk1wAAAAAAC/minions-lightbulb.gif">
 Stage: Prototyping.
-
+ 
 
 The purpose of Neurolight is to provide indoor light with accordance to the most recent findings in neurobiology and ophtalmologie. We need light, but it is not a common knowledge that our patterns of light viewing behavior can significantly affect our mental and physical health. Neurolight's goal is to design and program lights that would provide certain types of light, of certain wavelengths, from certain angles to promote well-being.
 
