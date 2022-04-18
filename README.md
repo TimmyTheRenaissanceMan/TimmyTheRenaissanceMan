@@ -9,12 +9,11 @@
 
 ### Connect with me:
 
-<img width="50px" href="https://twitter.com/TimurAkhmetov6" src="https://img.icons8.com/ios-glyphs/344/4a90e2/twitter--v1.png" />
+<img width="50px" style="background-color:white; border-radius: 50%;"  href="https://twitter.com/TimurAkhmetov6" src="https://img.icons8.com/ios-glyphs/344/4a90e2/twitter--v1.png" />
 <img width="50px" href="https://www.instagram.com/timurakhmetov/" src="https://img.icons8.com/fluency/344/4a90e2/instagram-new.png" />
 
 
 ### Languages and Tools:
-<img width="50px" src="" />
 <img width="50px" src="https://img.icons8.com/color/344/html-5--v1.png" />
 <img width="50px" src="https://img.icons8.com/color/344/css3.png" />
 <img width="50px" src="https://img.icons8.com/color/344/sass.png" />
