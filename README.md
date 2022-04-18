@@ -24,13 +24,14 @@ Also, the platform provides learning recommendations based on the user's reviews
 Tools: MERN, TypeScript, JavaScript.
 
 ### Neurolight
+<img src="https://c.tenor.com/joq8ykk1wAAAAAAC/minions-lightbulb.gif">
 Stage: Prototyping
 
 The purpose of Neurolight is to provide indoor light with accordance to the most recent findings in neurobiology and ophtalmologie. We need light, but it is not a common knowledge that our patterns of light viewing behavior can significantly affect our mental and physical health. Neurolight's goal is to design and program lights that would provide certain types of light, of certain wavelengths, from certain angles to promote well-being.
 
 Neurolight aims at helping individuals to stick to their circadian rhythms, to promote the release of cortisol in the morning, to promote and protect the release of melatonin in the evening and more. 
 
-Tools: Tons of lights and constructing materials, Python, Raspberry Pi.
+Tools: Tons of lights and constructing materials, Python, Flask, Raspberry Pi.
 
 
 ### Connect with me:
