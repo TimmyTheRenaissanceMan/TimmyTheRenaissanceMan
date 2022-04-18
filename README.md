@@ -1,5 +1,5 @@
 
-<img src="/channels4_profile.jpg" width="100%"/>
+<img src="assets/channels4_profile.jpg" width="100%"/>
 ## Hi there
 - 📚 I'm currently learning Angular... and exploring Linux Kali 👽🤫
 - 🙋‍♂️ I'm free to give a few hours a week to volunteer (if your project is cool)
