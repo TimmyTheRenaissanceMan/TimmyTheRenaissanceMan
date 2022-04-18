@@ -9,7 +9,8 @@
 
 ### Connect with me:
 
-[<img width="50px" style="display: inline-block"  href="https://twitter.com/TimurAkhmetov6" />](https://img.icons8.com/ios-glyphs/344/4a90e2/twitter--v1.png)    [<img width="50px" src="https://img.icons8.com/fluency/344/4a90e2/instagram-new.png" />](https://www.instagram.com/timurakhmetov/)
+[<img width="50px" style="display: inline-block"  href="https://twitter.com/TimurAkhmetov6" />](https://img.icons8.com/ios-glyphs/344/4a90e2/twitter--v1.png)    
+[<img width="50px" src="https://img.icons8.com/fluency/344/4a90e2/instagram-new.png" />](https://www.instagram.com/timurakhmetov/)
 
 
 ### Languages and Tools:
