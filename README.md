@@ -5,11 +5,17 @@
 ## 
 - 📚 I'm currently learning Angular... and exploring Linux Kali 🤫
 - 🙋‍♂️ I'm free to give a few hours a week to volunteer (if your project is cool)
-- 🌎 
-
+- 🌎 I'm a free spirit: I freelance, travel and manage a few startups.
+- 🙃 I love to philosophize and sometimes I explore the boundaries of human consciousness
+- 🗺️ Next travel destination - Greece and I wish to go for a 1 month trip to Amazon Rainforest to live with shamans (Brazil/Peru)
 
 
 ## What I do:
+### Freelancing
+I work primarily on short and medium term projects that take anywhere from 30 minutes to 2-3 months. 
+I develop e-commerce platforms, SaaS, PaaS, web games, automation scripts and so on. 
+I like hight degree of novelty, so if you have something unconventional, I am here for you. 
+At the end of the page, you can find languages and tools that I use. 
 
 ### Devancer B.V.
 Stage: Currently restructing for a scale up. 
@@ -36,3 +42,5 @@ Tools: Tons of lights and constructing materials, Python, Raspberry Pi.
 
 ### Languages and Tools:
 <img width="50px" src="https://img.icons8.com/color/344/html-5--v1.png" /><img width="50px" src="https://img.icons8.com/color/344/css3.png" /><img width="50px" src="https://img.icons8.com/color/344/sass.png" /><img width="50px" src="https://img.icons8.com/color/344/javascript--v1.png" /><img width="50px" src="https://img.icons8.com/ios-filled/344/4a90e2/typescript.png" /><img width="50px" src="https://img.icons8.com/plasticine/344/react.png" /><img width="50px" src="https://img.icons8.com/color/344/nodejs.png" /><img width="50px" src="https://img.icons8.com/color/344/python--v1.png" /><img width="50px" src="https://img.icons8.com/fluency/344/selenium-test-automation.png" /><img width="50px" src="https://img.icons8.com/cute-clipart/344/4a90e2/flask.png" /><img width="50px" src="https://img.icons8.com/color/344/django.png" /><img width="50px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-226029.png" /><img width="50px" src="https://img.icons8.com/color/452/mysql-logo.png" /><img width="50px" src="https://img.icons8.com/color/344/git.png" /><img width="50px" src="https://img.icons8.com/glyph-neue/344/4a90e2/github.png" /><img width="50px" src="https://img.icons8.com/ios-filled/344/4a90e2/console.png" /><img width="50px" src="https://cdn.iconscout.com/icon/free/png-256/atom-134-226073.png" /><img width="50px" src="https://img.icons8.com/ios-filled/344/4a90e2/visual-studio.png" /><img width="50px" src="https://img.icons8.com/color/344/4a90e2/pycharm.png" />
+
+### 🌈👽🌀🔮☯🌙🍄👾🧞‍♀️🧚👁🦋🦄🦕💫✨⚡️⭐️🌊🌬
