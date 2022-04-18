@@ -5,7 +5,7 @@
 - 📚 I'm currently learning Angular... and exploring Linux Kali 👽🤫
 - 🙋‍♂️ I'm free to give a few hours a week to volunteer (if your project is cool)
 - 🌎 I'm a free spirit: I freelance, travel and manage a few startups.
-- 🙃 I love to philosophize and sometimes I explore the boundaries of human consciousness
+- 🙃 I love to philosophize and sometimes I explore the boundaries of the human consciousness
 - 🗺️ Next travel destination - Greece and I wish to go for a 1 month trip to Amazon Rainforest to live with shamans (Brazil/Peru)
 
 
