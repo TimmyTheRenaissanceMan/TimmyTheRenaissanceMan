@@ -23,7 +23,7 @@ Also, the platform provides learning recommendations based on the user's reviews
 
 Tools: MERN, TypeScript, JavaScript.
 
-### Neurolight
+### Neurolight B.V. (tb launched)
 <img src="https://c.tenor.com/joq8ykk1wAAAAAAC/minions-lightbulb.gif">
 Stage: Prototyping.
 
