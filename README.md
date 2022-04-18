@@ -12,7 +12,7 @@
 
 ## What I do:
 ### Freelancing
-<img width="200px" src="https://pbs.twimg.com/media/FQgl89aXMAAreT7?format=jpg&name=small">
+<img width="200px" src="https://pbs.twimg.com/media/FQgl89aXMAAreT7?format=jpg&name=small" />
 I work primarily on short and medium term projects that take anywhere from 30 minutes to 2-3 months. I develop e-commerce platforms, SaaS, PaaS, web games, automation scripts and so on. I like high degree of novelty and so I always pick different/contrasting projects. At the end of the page, you can find languages and tools that I use. 
 
 ### Devancer B.V.
@@ -24,9 +24,8 @@ Also, the platform provides learning recommendations based on the user's reviews
 Tools: MERN, TypeScript, JavaScript.
 
 ### Neurolight B.V. (tb launched)
-<img src="https://c.tenor.com/joq8ykk1wAAAAAAC/minions-lightbulb.gif">
-Stage: Prototyping.
- 
+<img src="https://c.tenor.com/joq8ykk1wAAAAAAC/minions-lightbulb.gif" />
+Stage: Prototyping. 
 
 The purpose of Neurolight is to provide indoor light with accordance to the most recent findings in neurobiology and ophtalmologie. We need light, but it is not a common knowledge that our patterns of light viewing behavior can significantly affect our mental and physical health. Neurolight's goal is to design and program lights that would provide certain types of light, of certain wavelengths, from certain angles to promote well-being.
 
