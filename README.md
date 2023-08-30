@@ -59,6 +59,4 @@ Data analytics: Google Colab, Matplotlib, Pandas, Plotly, Seaborn, IBM SPSS, Jup
 Data visualization: Tableau
 
 
-### Miscellaneous
 <img src="https://strokingfire.files.wordpress.com/2020/12/this-cruel-design-2-this-mortal-coil-book-review-pic-03-by-casey-carlisle.gif" /> 
-🌈👽🌀🔮☯🌙🍄👾🧞‍♀️🧚👁🦋🦄🦕💫✨⚡️⭐️🌊🌬
