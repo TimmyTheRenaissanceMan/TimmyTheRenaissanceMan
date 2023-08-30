@@ -41,13 +41,21 @@ Tools: Tons of lights and constructing materials, Python, Flask, Raspberry Pi.
 
 ### Languages and Tools:
 CSS: CSS3, Bootstrap, Material UI, jQuery, Semantic UI, Tailwind CSS
+
 Frontend: HTML5, JavaScript, Typescript, React, Angular, Jinja2
+
 Backend: Node.js, Express, Python, Flask, Django, Java
+
 Mobile: React Native
+
 Databases: mySQL, MongoDB, Firebase, SQLite
+
 Other tools: Docker, Git, AWS, Jira
+
 Data scraping: Selenium, BeautifulSoup
+
 Data analytics: Google Colab, Matplotlib, Pandas, Plotly, Seaborn, IBM SPSS, Jupyter
+
 Data visualization: Tableau
 
 
