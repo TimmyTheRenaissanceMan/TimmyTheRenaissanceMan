@@ -40,8 +40,15 @@ Tools: Tons of lights and constructing materials, Python, Flask, Raspberry Pi.
 
 
 ### Languages and Tools:
-<img width="50px" src="https://img.icons8.com/color/344/html-5--v1.png" /><img width="50px" src="https://img.icons8.com/color/344/css3.png" /><img width="50px" src="https://img.icons8.com/color/344/sass.png" /><img width="50px" src="https://img.icons8.com/color/344/javascript--v1.png" /><img width="50px" src="https://img.icons8.com/ios-filled/344/4a90e2/typescript.png" /><img width="50px" src="https://img.icons8.com/ios-filled/344/4a90e2/jquery.png" /><img width="50px" src="https://img.icons8.com/plasticine/344/react.png" /><img width="50px" src="https://img.icons8.com/color/344/nodejs.png" /><img width="50px" src="https://img.icons8.com/color/344/python--v1.png" /><img width="50px" src="https://img.icons8.com/fluency/344/selenium-test-automation.png" /><img width="50px" src="https://img.icons8.com/cute-clipart/344/4a90e2/flask.png" /><img width="50px" src="https://img.icons8.com/color/344/django.png" /><img width="50px" src="https://img.icons8.com/fluency/344/jupyter.png" /><img width="50px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-226029.png" /><img width="50px" src="https://img.icons8.com/fluency/344/docker.png" /><img width="50px" src="https://img.icons8.com/color/452/mysql-logo.png" /><img width="50px" src="https://img.icons8.com/color/344/git.png" /><img width="50px" src="https://img.icons8.com/glyph-neue/344/4a90e2/github.png" /><img width="50px" src="https://img.icons8.com/ios-filled/344/4a90e2/console.png" /><img width="50px" src="https://cdn.iconscout.com/icon/free/png-256/atom-134-226073.png" /><img width="50px" src="https://img.icons8.com/ios-filled/344/4a90e2/visual-studio.png" /><img width="50px" src="https://img.icons8.com/color/344/4a90e2/pycharm.png" /><img width="50px" src="https://img.icons8.com/color/344/kali-linux.png" />
-<img width="50px" src="https://img.icons8.com/ios-filled/344/4a90e2/visual-studio.png" /><img width="50px" src="https://img.icons8.com/?size=512&id=13679&format=png" />
+CSS: CSS3, Bootstrap, Material UI, jQuery, Semantic UI, Tailwind CSS
+Frontend: HTML5, JavaScript, Typescript, React, Angular, Jinja2
+Backend: Node.js, Express, Python, Flask, Django, Java
+Mobile: React Native
+Databases: mySQL, MongoDB, Firebase, SQLite
+Other tools: Docker, Git, AWS, Jira
+Data scraping: Selenium, BeautifulSoup
+Data analytics: Google Colab, Matplotlib, Pandas, Plotly, Seaborn, IBM SPSS, Jupyter
+Data visualization: Tableau
 
 
 ### Miscellaneous
