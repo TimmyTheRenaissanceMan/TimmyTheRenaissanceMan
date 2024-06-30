@@ -48,7 +48,7 @@ Backend: Node.js, Express, Python, Flask, Django, Java
 
 Mobile: React Native
 
-Databases: mySQL, MongoDB, Firebase, SQLite
+Databases: mySQL, MongoDB, Firebase, SQLite, Postgres
 
 Other tools: Docker, Git, AWS, Jira
 
