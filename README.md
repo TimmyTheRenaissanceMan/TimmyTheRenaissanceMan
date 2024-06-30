@@ -2,11 +2,10 @@
 <img src="assets/channels4_profile.jpg" width="100%"/>
 
 ## Hi there
-- 📚 I'm currently practicing Java and pentesting 
-- 🙋‍♂️ I'm free to give a few hours a week to volunteer (if your project is cool)
-- 🌎 I'm a free spirit: I freelance, travel and manage a few startups.
-- 🙃 I love to philosophize and sometimes I explore the boundaries of the human consciousness
-- 🗺️ Next travel destination - South East Asia and I wish to go for a month to Amazon Rainforest to live with shamans (Brazil/Peru)
+- 🙋‍♂️ I'm free to give a few hours a week to volunteer (for somthing meaningful)
+- 🌎 I freelance, travel and manage a few startups.
+- 🙃 Love to philosophize and sometimes I explore the boundaries of the human consciousness
+- 🗺️ Moving next to South East Asia and I wish to spend a year in Brazil/Peru
 
 
 ## What I do:
