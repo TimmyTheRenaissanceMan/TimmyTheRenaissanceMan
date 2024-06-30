@@ -11,10 +11,10 @@
 ## What I do:
 ### Freelancing
 <img width="200px" src="https://pbs.twimg.com/media/FQgl89aXMAAreT7?format=jpg&name=small" />
-I work primarily on short and medium term projects that take anywhere from 30 minutes to 2-3 months. I develop e-commerce platforms, SaaS, PaaS, web games, automation scripts and so on. I like high degree of novelty and so I always pick different/contrasting projects. At the end of the page, you can find languages and tools that I use. 
+I work on variety of projects in terms of length and complexity. I develop e-commerce platforms, SaaS, PaaS, automation scripts and more. I like high degree of novelty and so I always pick different/contrasting projects. At the end of the page, you can find languages and tools that I use. 
 
 ### Devancer B.V.
-Stage: Currently restructuring, preparing for a scale up. 
+Stage: Currently restructuring, preparing for a scale up and commercialization. 
 
 The purpose of Devancer is to centralize E-learning by hosting: user created study guides, library (links and references to E-learning content), and a tutor job board. 
 Also, the platform provides learning recommendations based on the user's reviews, which will make e-learning process even more efficient. 
