@@ -6,7 +6,7 @@
 - 🙋‍♂️ I'm free to give a few hours a week to volunteer (if your project is cool)
 - 🌎 I'm a free spirit: I freelance, travel and manage a few startups.
 - 🙃 I love to philosophize and sometimes I explore the boundaries of the human consciousness
-- 🗺️ Next travel destination - Greece and I wish to go for a month to Amazon Rainforest to live with shamans (Brazil/Peru)
+- 🗺️ Next travel destination - South East Asia and I wish to go for a month to Amazon Rainforest to live with shamans (Brazil/Peru)
 
 
 ## What I do:
