@@ -2,10 +2,9 @@
 <img src="assets/channels4_profile.jpg" width="100%"/>
 
 ## Hi there
-- 🙋‍♂️ I'm free to give a few hours a week to volunteer (for somthing meaningful)
-- 🌎 I freelance, travel and manage a few startups.
+- 🙋‍♂️ I'm free to give a few hours a week to volunteer (for something meaningful)
+- 🌎 I freelance, travel (currently SEA) and manage a few startups
 - 🙃 Love to philosophize and sometimes I explore the boundaries of the human consciousness
-- 🗺️ Moving next to South East Asia and I wish to spend a year in Brazil/Peru
 
 
 ## What I do:
