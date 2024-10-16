@@ -32,11 +32,6 @@ Neurolight aims at helping individuals to stick to their circadian rhythms, to p
 Tools: Tons of lights and constructing materials, Python, Flask, Raspberry Pi.
 
 
-### Connect with me:
-
-[<img width="50px" src="https://img.icons8.com/fluency/344/4a90e2/instagram-new.png" />](https://www.instagram.com/timurakhmetov/)
-
-
 ### Languages and Tools:
 CSS: CSS3, Bootstrap, Material UI, jQuery, Semantic UI, Tailwind CSS
 
