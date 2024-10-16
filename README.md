@@ -18,7 +18,7 @@ Stage: Currently restructuring, preparing for a scale up and commercialization.
 The purpose of Devancer is to centralize E-learning by hosting: user created study guides, library (links and references to E-learning content), and a tutor job board. 
 Also, the platform provides learning recommendations based on the user's reviews, which will make e-learning process even more efficient. 
 
-Tools: MERN/MEAN, TypeScript, JavaScript, Python, Selenium.
+Tools: PostgreSQL, Node.js, Express.js, React, Angular, TypeScript, JavaScript, Python, Selenium.
 
 ### Neurolight B.V. (tb launched)
 <img src="https://c.tenor.com/joq8ykk1wAAAAAAC/minions-lightbulb.gif" />
