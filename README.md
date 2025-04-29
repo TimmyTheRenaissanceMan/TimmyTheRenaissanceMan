@@ -15,7 +15,7 @@ I work on variety of projects in terms of length and complexity. I develop e-com
 ### Devancer B.V.
 Stage: Currently restructuring, preparing for a scale up and commercialization. 
 
-The purpose of Devancer is to centralize E-learning by hosting: user created study guides, library (links and references to E-learning content), and a tutor job board. 
+The purpose of Devancer is to centralize E-learning by hosting: user created study guides, library (links and references to E-learning content). 
 Also, the platform provides learning recommendations based on the user's reviews, which will make e-learning process even more efficient. 
 
 Tools: PostgreSQL, Node.js, Express.js, React, Angular, TypeScript, JavaScript, Python, Selenium.
